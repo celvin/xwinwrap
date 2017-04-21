@@ -9,3 +9,6 @@ Taking some notes from:
 ## Install
 - make
 - sudo make install
+
+## Extras
+* https://askubuntu.com/questions/852780/how-to-make-windows-transparent-by-default
