@@ -7,5 +7,5 @@ Taking some notes from:
 * https://shantanugoel.com/2008/09/03/shantz-xwinwrap/
 
 ## Install
-make
-sudo make install
+- make
+- sudo make install
